@@ -1,0 +1,4 @@
+Light House is a fun little project where I have a 3D lighthouse that starts off completely grey — no color, just dull shades of black and white. The idea is simple: a drone flies around the lighthouse and shoots a laser at it, and wherever the laser touches, the color comes back to life.
+I did this by playing around with shader values in the code. Shaders are basically small programs that control how things look on screen. By tweaking a few numbers, I was able to make the lighthouse slowly go from grey to full color — almost like the drone is painting it back to life.
+The cool part is watching the whole thing happen in real time. The drone moves up the lighthouse from bottom to top, and as it goes, the colors start filling in bit by bit until the whole thing is bright and fully lit up.
+It is a small project but it taught me a lot about how shaders work and how you can use them to create interesting visual effects without doing anything too complicated.
