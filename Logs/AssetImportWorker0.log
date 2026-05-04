@@ -1623,3 +1623,180 @@ Start importing Assets/LucirgoSoft/LCRG Skyboxes/Nigth/Textures/LS nigth 05_out_
  -> (artifact id: '4300828cd0aba27c91126e2e878d402f') in 0.005955 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 557.348013 seconds.
+  path: Assets/Game/ErbGameArt
+  artifactKey: Guid(7c6f6974f5b6ceb4f963263c6e35d42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt using Guid(7c6f6974f5b6ceb4f963263c6e35d42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c00c728d43cd3fbf20f4d2020c608fbe') in 0.000914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.141718 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack
+  artifactKey: Guid(bf142a722ea48a944860e19f4f962cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack using Guid(bf142a722ea48a944860e19f4f962cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'b53d84246e0e6d472148cba3a4151992') in 0.000603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.416783 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures
+  artifactKey: Guid(bdbbe8265f2a47246917cd030d0824ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures using Guid(bdbbe8265f2a47246917cd030d0824ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '6a1a1b3c486a11bfb990b4a11d912fe7') in 0.000338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.601637 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab.png
+  artifactKey: Guid(1b13dc101cf2ac7418019fd776161658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab.png using Guid(1b13dc101cf2ac7418019fd776161658) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '67b615ef49392ef0d6aa75e109dc4da2') in 0.027935 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.674299 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab.png
+  artifactKey: Guid(1b13dc101cf2ac7418019fd776161658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab.png using Guid(1b13dc101cf2ac7418019fd776161658) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'fd2f56570637dc673102c544e4ccb677') in 0.005247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 12.939654 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Normal.png
+  artifactKey: Guid(3a0dde7201a17f646865e8deeac56596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Normal.png using Guid(3a0dde7201a17f646865e8deeac56596) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3b4f2e501336c30f6466c0910fe4b313') in 0.071180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.525354 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Height.png
+  artifactKey: Guid(db368c1c85b12fe48aba6cc9bcd41f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Height.png using Guid(db368c1c85b12fe48aba6cc9bcd41f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c4bf146f35d30e9e83b4bfaabb51804c') in 0.006144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.542758 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_MetallicSmoothness.png
+  artifactKey: Guid(a685c8f461a651a46a2631ea3decafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_MetallicSmoothness.png using Guid(a685c8f461a651a46a2631ea3decafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '5c03ea380a73fd1041c37da2a3c749cb') in 0.006374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.686579 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Circle41.png
+  artifactKey: Guid(4e1d7245ae7321c4ba834b915eef99e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Circle41.png using Guid(4e1d7245ae7321c4ba834b915eef99e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'd5677466352bc918e019875b73f82e6b') in 0.006837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 14.253371 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Height.png
+  artifactKey: Guid(db368c1c85b12fe48aba6cc9bcd41f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Height.png using Guid(db368c1c85b12fe48aba6cc9bcd41f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '32fc2d0788d018bd562e02ef7101dc37') in 0.004546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.557236 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_MetallicSmoothness.png
+  artifactKey: Guid(a685c8f461a651a46a2631ea3decafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_MetallicSmoothness.png using Guid(a685c8f461a651a46a2631ea3decafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'bd6b1bbec8df0a57f31dbb2c811a2b31') in 0.004251 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.316391 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Normal.png
+  artifactKey: Guid(3a0dde7201a17f646865e8deeac56596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Concrete slab_Normal.png using Guid(3a0dde7201a17f646865e8deeac56596) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '0d91722851e3efb2c333a3c7ee0bf41b') in 0.004491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.618692 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Debris2.png
+  artifactKey: Guid(c6fbbfdbb4d88e4458046eec6645c0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Debris2.png using Guid(c6fbbfdbb4d88e4458046eec6645c0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'bf5b79b9c1dc173b9e68ac6c5658ac87') in 0.005574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.759334 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Fire3.png
+  artifactKey: Guid(b11d12906f2ce394e9f3eb695a5bf37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Fire3.png using Guid(b11d12906f2ce394e9f3eb695a5bf37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '69a8f7a91ad97cd2006becda352af00e') in 0.005106 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.690255 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Flash7.png
+  artifactKey: Guid(bec5c7c44540e99458f061f069c981a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Flash7.png using Guid(bec5c7c44540e99458f061f069c981a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '0252bb640f6ed9154ec45f84d062e3d7') in 0.006496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.423666 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/HandPaintedLightning2.png
+  artifactKey: Guid(e1f5daa4611af4844a03ec5a45012456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/HandPaintedLightning2.png using Guid(e1f5daa4611af4844a03ec5a45012456) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3cbf205d2b45190467466410b5827955') in 0.005508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.551175 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Mask23.png
+  artifactKey: Guid(fbf437916e36d824a8cce436ab5d55d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Mask23.png using Guid(fbf437916e36d824a8cce436ab5d55d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f68157b5f8f8dffc91ad6f41bfaa6f3a') in 0.005888 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.124438 seconds.
+  path: Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Snow4.png
+  artifactKey: Guid(2dbe75cf06e0c6842b4eae60ddda63ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/ErbGameArt/3D Lasers Pack/Textures/Snow4.png using Guid(2dbe75cf06e0c6842b4eae60ddda63ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'b5f1a6451c1cd33d93016836132eb748') in 0.005615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
